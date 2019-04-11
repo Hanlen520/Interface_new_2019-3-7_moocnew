@@ -1,0 +1,28 @@
+{
+  "login": {
+    "loginType": "1",
+    "userIdentification": "test1",
+    "pwdOrVerifyCode": "test",
+    "imageVerifyCode": "6226",
+    "imageVerifyCodeId": "bf5dbd541cda4ede9c31fc904e059ac3"
+  },
+  "auth": {
+    "type": "1"
+  },
+  "gua_data": {
+    "trailerPlateList": [],
+    "assignCodeList": [],
+    "page": 1,
+    "pageSize": 10
+  },
+  "add_gua":
+    {
+    "trailerPlate": "1111",
+    "agencyCode": "JG01",
+    "length": "1",
+    "axleNum": "2",
+    "size": "1,1,1",
+    "volumeCapacity": "1",
+    "loadCapacity": ""
+}
+}
